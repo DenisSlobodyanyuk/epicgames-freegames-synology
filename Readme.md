@@ -16,10 +16,10 @@
 
 ### Enable SSH(optional) - I figured it would be easier this way than figuring out how to set environmental variables throught the app
 #####   Go to Control Panel
-#####   Go to Terminal & SNMP
-#####   Check box for "Enable SSH service"
-#####   Set port for connecting
-#####   PS - Make sure that in Users & Groups, the user you're going to use had SSH enabled in Applications tab, and that the group that said user is assigned to, is not blocking SSH
+######   Go to Terminal & SNMP
+#######   Check box for "Enable SSH service"
+########  Set port for connecting
+#########   PS - Make sure that in Users & Groups, the user you're going to use had SSH enabled in Applications tab, and that the group that said user is assigned to, is not blocking SSH
 
 ### Folder structure
 #####   Go to Control Panel
