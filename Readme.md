@@ -4,6 +4,7 @@ Automatically login and redeem promotional free games from the Epic Games Store.
 Handles multiple accounts, 2FA, captcha bypass, captcha notifications, and scheduled runs.
 
 Fork from https://github.com/claabs/epicgames-freegames-node/issues because I had trouble figuring out how to set this up on my Synology. 
+
 https://git.sr.ht/~nitanmarcel/epicgames-freegames-node-telegram#json-configuration - this helped a lot
 
 # My steps
