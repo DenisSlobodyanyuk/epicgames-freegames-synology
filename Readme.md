@@ -35,8 +35,8 @@
 ######   Place this file in the folder you just created
 
 ## Deploy container
-###### SSH into your synology by using either, putty or powershell(will need install) on windows/terminal on macOS and Linux. ex "ssh user@10.0.0.13 -p 22"
-run "docker run -d -e TZ=America/Chicago -v /volume1/<docker folder name>/<container folder name>:/usr/app/config:rw -p 3000:3000 charlocharlie/epicgames-freegames:latest"
+######  SSH into your synology by using either, putty or powershell(will need install) on windows/terminal on macOS and Linux. ex "ssh user@10.0.0.13 -p 22"
+######  run "docker run -d -e TZ=America/Chicago -v /volume1/<docker folder name>/<container folder name>:/usr/app/config:rw -p 3000:3000 charlocharlie/epicgames-freegames:latest"
 
 # How to use
 ##### The program will start signing into your epic accounts and will claim the free games. When your account requires a capcha to be solved, either on sign in or when claiming a game, you will receive a notification with a link to click and solve the capha manually.
